@@ -1,0 +1,95 @@
+20230001,vuongbd,Bui Duc Vuong,16/09/2004,true,1 Nguyen Hue,Manager
+20230002,vinhbld,Bui Le Dang Vinh,27/01/2004,true,2 Tran Duy Hung,Employee
+20230003,vinhbt,Bui Thanh Vinh,30/07/2004,true,3 Quang Trung,Admin
+20230004,vinhdm,Dang Minh Vinh,26/08/2004,true,4 Nguyen Khuyen,Employee
+20230005,ucdc,Dinh Chi Uc,04/07/2004,false,5 Nguyen Van Cu,Employee
+20230006,tuandc,Do Chau Tuan,21/01/2004,true,6 Nguyen Hue,Employee
+20230007,tudhn,Do Huu Nhat Tu,22/06/2004,true,7 Tran Duy Hung,Employee
+20230008,truongdtt,Do Tram Trung Truong,08/01/2004,true,8 Quang Trung,Employee
+20230009,truongdx,Do Xuan Truong,25/01/2004,true,9 Nguyen Khuyen,Employee
+20230010,trucdk,Doan Khanh Truc,23/01/2004,true,10 Nguyen Van Cu,Employee
+20230011,tridt,Doan Thanh Tri,09/04/2004,false,11 Nguyen Hue,Employee
+20230012,tridv,Doan Viet Tri,06/06/2004,true,12 Tran Duy Hung,Employee
+20230013,tiendn,Duong Ngoc Tien,14/10/2004,false,13 Quang Trung,Employee
+20230014,thuydta,Duong Thi Anh Thuy,06/04/2004,true,14 Nguyen Khuyen,Employee
+20230015,thuantt,Tran Tan Thuan,27/09/2004,true,15 Nguyen Van Cu,Employee
+20230016,tranghtk,Ha Thi Kieu Trang,11/10/2004,true,16 Nguyen Hue,Employee
+20230017,thinhhl,Ho Luong Thinh,17/02/2004,true,17 Tran Duy Hung,Employee
+20230018,thinhhx,Ho Xuan Thinh,17/08/2004,true,18 Quang Trung,Employee
+20230019,thienh,Hoang Thien,13/04/2004,true,19 Nguyen Khuyen,Employee
+20230020,thihd,Hoang Duy Thi,15/08/2004,true,20 Nguyen Van Cu,Employee
+20230021,thanhhg,Hoang Gia Thanh,06/03/2004,true,21 Nguyen Hue,Employee
+20230022,thanhhkt,Huynh Kim Thinh Thanh,27/09/2004,true,22 Tran Duy Hung,Employee
+20230023,thaihm,Huynh Minh Thai,08/11/2004,true,23 Quang Trung,Employee
+20230024,tamlh,Lai Hoang  Tam,29/09/2004,true,24 Nguyen Khuyen,Employee
+20230025,tailnm,Le Ngoc Minh Tai,09/05/2004,true,25 Nguyen Van Cu,Employee
+20230026,tailnd,Le Nguyen Duy Tai,18/10/2004,true,26 Nguyen Hue,Employee
+20230027,quynhlp,Le Phuc Quynh,30/03/2004,true,27 Tran Duy Hung,Employee
+20230028,quyenlt,Le Thanh Quyen,15/03/2004,true,28 Quang Trung,Employee
+20230029,quylt,Le Thanh Quy,10/12/2004,false,29 Nguyen Khuyen,Employee
+20230030,quanglt,Le Thu Quang,11/02/2004,false,30 Nguyen Van Cu,Employee
+20230031,quanlvn,Le Van Nhat Quan,17/07/2004,false,31 Nguyen Hue,Employee
+20230032,quanng,Ngo Gia Quan,21/10/2004,true,32 Tran Duy Hung,Employee
+20230033,phuocnk,Ngo Khai Phuoc,29/01/2004,false,33 Quang Trung,Employee
+20230034,phucnbq,Nguyen Bui Quang Phuc,02/11/2004,true,34 Nguyen Khuyen,Employee
+20230035,phinc,Nguyen Cong Phi,18/10/2004,true,35 Nguyen Van Cu,Employee
+20230036,phatnd,Nguyen Dinh Phat,02/10/2004,false,36 Nguyen Hue,Employee
+20230037,phapndt,Nguyen Do Thien Phap,26/12/2004,true,37 Tran Duy Hung,Employee
+20230038,nhund,Nguyen Duc Nhu,26/08/2004,true,38 Quang Trung,Employee
+20230039,nhindh,Nguyen Duy Hoang Nhi,20/12/2004,true,39 Nguyen Khuyen,Employee
+20230040,nguyennhg,Nguyen Hoang Gia Nguyen,23/09/2004,true,40 Nguyen Van Cu,Employee
+20230041,nghianhg,Nguyen Hoang Gia Nghia,20/11/2004,true,41 Nguyen Hue,Employee
+20230042,ngannh,Nguyen Huu Ngan,18/09/2004,true,42 Tran Duy Hung,Employee
+20230043,nghianh,Nguyen Huu Nghia,07/10/2004,true,43 Quang Trung,Employee
+20230044,namnk,Nguyen Khanh Nam,24/08/2004,true,44 Nguyen Khuyen,Employee
+20230045,mynlq,Nguyen Lu Quoc My,16/04/2004,true,45 Nguyen Van Cu,Employee
+20230046,manhnm,Nguyen Minh Manh,07/03/2004,true,46 Nguyen Hue,Employee
+20230047,luannnh,Nguyen Ngoc Hung Luan,12/06/2004,true,47 Tran Duy Hung,Employee
+20230048,luannpn,Nguyen Phan Nhat Luan,21/07/2004,true,48 Quang Trung,Employee
+20230049,locnq,Nguyen Quang Loc,21/01/2004,true,49 Nguyen Khuyen,Employee
+20230050,lenhnt,Nguyen Thanh Lenh,18/05/2004,true,50 Nguyen Van Cu,Employee
+20230051,kietnt,Nguyen Thanh Kiet,24/01/2004,true,51 Nguyen Hue,Employee
+20230052,khoant,Nguyen Tien Khoa,11/11/2003,true,52 Tran Duy Hung,Employee
+20230053,khoanta,Nguyen Tran Anh Khoa,24/03/2004,true,53 Quang Trung,Employee
+20230054,khoant,Nguyen Trung Khoa,20/07/2004,true,54 Nguyen Khuyen,Employee
+20230055,khiemnt,Nguyen Trung Khiem,29/11/2004,true,55 Nguyen Van Cu,Employee
+20230056,khanhnvh,Nguyen Van Hoang Khanh,19/05/2004,true,56 Nguyen Hue,Employee
+20230057,khanhnx,Nguyen Xuan Khanh,30/09/2004,true,57 Tran Duy Hung,Employee
+20230058,khangnnm,Ninh Nguyen Minh Khang,13/03/2004,true,58 Quang Trung,Employee
+20230059,khapb,Pham Ba Kha,24/11/2003,true,59 Nguyen Khuyen,Employee
+20230060,huypd,Pham Duc Huy,08/03/2004,false,60 Nguyen Van Cu,Employee
+20230061,huypg,Pham Gia Huy,21/08/2004,true,61 Nguyen Hue,Employee
+20230062,huyphn,Pham Ho Nhu Huy,07/09/2004,false,62 Tran Duy Hung,Employee
+20230063,hungpnt,Pham Nguyen Tri Hung,19/02/2004,true,63 Quang Trung,Employee
+20230064,hungpp,Pham Phuoc Hung,28/02/2004,true,64 Nguyen Khuyen,Employee
+20230065,hungpt,Pham The Hung,11/10/2004,true,65 Nguyen Van Cu,Employee
+20230066,hoangphn,Phan Ho Ngoc Hoang,03/09/2004,true,66 Nguyen Hue,Employee
+20230067,hoaipn,Phan Nhut Hoai,06/07/1996,true,67 Tran Duy Hung,Employee
+20230068,hoaitt,Tran Thien Hoai,11/09/2004,true,68 Quang Trung,Employee
+20230069,hieutd,Tran Dang Hieu,03/03/2004,true,69 Nguyen Khuyen,Employee
+20230070,hieutd,Tran Doan Hieu,03/09/2004,true,70 Nguyen Van Cu,Employee
+20230071,haotd,Tran Duc Hao,26/12/2004,false,71 Nguyen Hue,Employee
+20230072,haotd,Tran Duc Hao,05/04/2004,true,72 Tran Duy Hung,Employee
+20230073,hanth,Tran Hai Han,23/01/2004,true,73 Quang Trung,Employee
+20230074,haitk,Tran Kim Hai,03/07/2004,false,74 Nguyen Khuyen,Employee
+20230076,duongtm,Tran Minh Duong,26/06/2003,true,76 Nguyen Hue,Employee
+20230077,dungtn,Tran Ngoc Dung,02/03/2004,true,77 Tran Duy Hung,Employee
+20230078,dungtq,Tran Quang Dung,17/05/2004,true,78 Quang Trung,Employee
+20230079,ductq,Tran Quoc Duc,18/11/2004,true,79 Nguyen Khuyen,Employee
+20230080,dangtt,Tran Thanh Dang,09/06/2003,false,80 Nguyen Van Cu,Employee
+20230081,dattv,Tran Van Dat,08/08/2004,true,81 Nguyen Hue,Employee
+20230082,dattt,Tran Tien Dat,19/12/2004,true,82 Tran Duy Hung,Employee
+20230083,dangtv,Trinh Van Dang,27/10/2004,true,83 Quang Trung,Employee
+20230084,cuongtdt,Truong Do Trong Cuong,11/11/2004,false,84 Nguyen Khuyen,Employee
+20230085,chautb,Truong Bao Chau,26/10/2004,true,85 Nguyen Van Cu,Employee
+20230086,baotng,Truong Nguyen Gia Bao,03/01/2004,true,86 Nguyen Hue,Employee
+20230087,baott,Truong Thanh Bao,03/04/2004,true,87 Tran Duy Hung,Employee
+20230088,baovn,Vo Ngoc Bao,30/08/2004,true,88 Quang Trung,Employee
+20230089,anhvq,Vo Quang Anh,09/11/2004,false,89 Nguyen Khuyen,Employee
+20230090,anvx,Vo Xuan An,13/10/2004,false,90 Nguyen Van Cu,Employee
+78226810,vinhnq,Nguyen Quang Vinh,29/02/2000,false,20 Null,Admin
+61393231,anv,Nguyen Van A,30/07/2004,true,Null,Admin
+21073876,vinhnq,Nguyen Quang Vinh,30/07/2004,true,Null,Admin
+70453911,vinhnq,Nguyen Quang Vinh,30/07/2004,true,Null,Admin
+42408758,vinhnq,Nguyen Quang Vinh,30/07/2004,true,Null,Admin
+66718275,vinhnq,Nguyen Quang Vinh,30/09/2004,true,Null,Admin
